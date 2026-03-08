@@ -1,0 +1,18 @@
+Position Overview
+We are looking for an Azure Cloud Solution Specialist responsible for designing, implementing, and governing Microsoft Azure environments. The role focuses on building secure, scalable, and well‑architected cloud infrastructures aligned with Microsoft Cloud Adoption Framework and Azure best practices.
+
+Key Responsibilities
+•    Design Azure infrastructure aligned with Cloud Adoption Framework and Well‑Architected Framework.
+•    Deploy and configure Azure Landing Zones.
+•    Manage Azure Virtual Machines and infrastructure services.
+•    Implement resource governance including naming standards and tagging strategies.
+•    Monitor Azure billing and cost management.
+•    Configure RBAC and identity integration with Microsoft Entra ID.
+•    Design scalable and resilient cloud architectures.
+
+Required Technical Skills
+•    Azure compute and virtual machine management
+•    Azure virtual networking
+•    Azure monitoring and backup solutions
+•    Hub‑and‑Spoke network architecture
+•    Azure Migrate and infrastructure migration tools
